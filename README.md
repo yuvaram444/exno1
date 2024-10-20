@@ -21,6 +21,11 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+               
+
+[yuvaramDS01.pdf](https://github.com/user-attachments/files/17451284/yuvaramDS01.pdf)
+
             <<include your coding and its corressponding output screen shots here>>
+            
 # Result
           <<include your Result here>>
